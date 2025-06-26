@@ -1,2 +1,6 @@
 # OOP-Project
-This is my 2nd semester OOP project.
+Project name : CAR RENTAL SYSTEM
+Team Members : 
+Muhammad Bahauddin Shakir
+Mubashir Maqsood
+Zain-ul-Abidin
